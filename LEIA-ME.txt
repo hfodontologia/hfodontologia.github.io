@@ -1,0 +1,9 @@
+PACOTE DO SITE - HENRIQUE FERNANDES ODONTOLOGIA
+
+1. Extraia este ZIP no computador.
+2. No GitHub, na tela 'Upload files', selecione TODOS os arquivos desta pasta.
+3. Aguarde o upload terminar.
+4. NÃO altere nomes dos arquivos.
+5. Em seguida faça o commit conforme orientação no ChatGPT.
+
+Observação: o arquivo CNAME ainda NÃO foi incluído. O domínio hfodontologia.com.br será conectado depois pelo menu Settings > Pages, com configuração de DNS no Registro.br.
